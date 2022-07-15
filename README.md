@@ -1,4 +1,4 @@
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&email=hide&login=abaioumy)](https://github.com/mohouyizme/1337-readme)
+[![42 Profile Card](https://badge42.vercel.app/api/v2/cl5mqdkoo002109lhb3kg8nbl/stats?cursusId=21&coalitionId=77)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vulpes19)](https://github.com/anuraghazra/github-readme-stats)
 <!--

@@ -1,6 +1,4 @@
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)]([https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb](https://open.spotify.com/))
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vulpes19)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vulpes19&theme=tokyonight" alt="mystreak"/>
 <!--
 **Vulpes19/Vulpes19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

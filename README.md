@@ -1,4 +1,4 @@
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)]([https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI](https://open.spotify.com/))
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vulpes19)](https://github.com/anuraghazra/github-readme-stats)
 <!--

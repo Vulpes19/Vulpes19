@@ -1,4 +1,4 @@
-[![42 Profile Card](https://badge42.vercel.app/api/v2/cl5mqdkoo002109lhb3kg8nbl/stats?cursusId=21&coalitionId=77)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vulpes19)](https://github.com/anuraghazra/github-readme-stats)
 <!--

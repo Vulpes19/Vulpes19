@@ -1,4 +1,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vulpes19&theme=tokyonight" alt="mystreak"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vulpes19&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <!--
 **Vulpes19/Vulpes19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

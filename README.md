@@ -1,6 +1,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vulpes19&count_private=true&&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vulpes19&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vulpes19&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />
 <!--
 **Vulpes19/Vulpes19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

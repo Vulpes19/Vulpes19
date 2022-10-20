@@ -1,6 +1,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vulpes19&count_private=true&&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Vulpes19?theme=tokyonight)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Vulpes19?theme=nord)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vulpes19&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />
 

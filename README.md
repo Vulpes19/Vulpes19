@@ -2,7 +2,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vulpes19&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />
 
-![](https://leetcard.Vulpes19.cool/leetcode?site=cn)
+![](https://leetcard.Vulpes19.cool/leetcode?site=us)
+
 <!--
 **Vulpes19/Vulpes19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

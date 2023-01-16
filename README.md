@@ -2,7 +2,7 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Vulpes19?theme=nord)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vulpes19&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vulpes19)](https://github.com/Vulpes19/github-readme-stats)
 
 
 <!--
